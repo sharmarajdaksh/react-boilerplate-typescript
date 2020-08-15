@@ -1,3 +1,3 @@
 # React Typescript Boilerplate
 
-An unopinionated yet organizer boilerplate for React Typescript projects
+An unopinionated yet organized boilerplate for React Typescript projects
