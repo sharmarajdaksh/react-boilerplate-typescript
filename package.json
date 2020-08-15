@@ -1,7 +1,9 @@
 {
   "name": "react-boilerplate-typescript",
+  "author": "Dakshraj Sharma",
   "version": "0.1.0",
   "private": true,
+  "main": "src/index.tsx",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -10,6 +12,7 @@
     "@types/node": "^12.12.54",
     "@types/react": "^16.9.46",
     "@types/react-dom": "^16.9.8",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
